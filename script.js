@@ -1,4 +1,4 @@
-const PRESIDENT_EMAIL = "PRESIDENT_EMAIL@REPLACE_ME.COM";
+const PRESIDENT_EMAIL = "daviddonut677@gmail.com";
 
 const navToggle = document.getElementById("navToggle");
 const navLinks = document.getElementById("navLinks");
